@@ -1,4 +1,4 @@
 timelimit 10 
-cpu A
-cpu B 
-cpu C
+./cpu A
+./cpu B 
+./cpu C
