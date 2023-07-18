@@ -1,7 +1,4 @@
 ## Justin Pearson
-#### ID: 3069488
-#### Cmpt 360 Assignment 3
-#### Instructor: Cam Macdonnell
 ## Purpose
 This program takes an input of a -i flag followed by a config file which is
 parsed and for each filename in the config file, a new child process will be
