@@ -1,0 +1,2 @@
+openssl speed mdc2
+openssl speed md4
