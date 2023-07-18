@@ -1,4 +1,5 @@
 ## Justin Pearson
+#### INSTRUCTIONS FOR RUNNING ON A LINUX SERVER
 ## Purpose
 This program takes an input of a -i flag followed by a config file which is
 parsed and for each filename in the config file, a new child process will be
@@ -60,8 +61,12 @@ example report SIGINT received:
 ## How to run
 It can be run by the commands:
 
-    make 
+	make 
 	OR
 	make macD
     then run the executable it makes with:
     ./macD -i "configuation file name"
+
+IF THE PROCESSES FAIL TO START TRY THE COMMAND:
+
+	chmod +rwx "executable_name"
