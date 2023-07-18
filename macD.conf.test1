@@ -1,5 +1,5 @@
 timelimit 20
-/var/cam/cmpt360/Cprograms/tensec
-/var/cam/cmpt360/Cprograms/cpu A
-/usr/bin/python3 /var/cam/cmpt360/A3tests/test.py
+tensec
+cpu A
+python3 test.py
 badprogram
