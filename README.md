@@ -1,4 +1,8 @@
 ## Justin Pearson
+### Free textbook found at
+
+	https://pages.cs.wisc.edu/~remzi/OSTEP/
+
 #### INSTRUCTIONS FOR RUNNING ON A LINUX SERVER
 ## Purpose
 This program takes an input of a -i flag followed by a config file which is
