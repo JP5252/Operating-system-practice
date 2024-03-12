@@ -12,10 +12,10 @@ created for it.
 the process creation will be reported like this:
 
 	Starting report, Tue, Oct 1, 2019 12:10:50 PM
-	[0] /var/cam/cmpt360/Cprograms/cpu A, started successfully (pid: 10345)
-	[1] /var/cam/cmpt360/Cprograms/mem, started successfully (pid: 10348)
-	[2] /var/cam/cmpt360/Cprograms/cpu B, started successfully (pid: 10487)
-	[3] badprogram /var/cam/somefile.txt, failed to start
+	[0] /var/Cprograms/cpu A, started successfully (pid: 10345)
+	[1] /var/Cprograms/mem, started successfully (pid: 10348)
+	[2] /var/Cprograms/cpu B, started successfully (pid: 10487)
+	[3] badprogram /var/somefile.txt, failed to start
 
 then the parent will check every 5 seconds if and of the
 processes have completed and report back which processes are still running and
